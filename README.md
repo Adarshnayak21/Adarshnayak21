@@ -25,7 +25,7 @@ I'm a passionate MERN developer currently diving into Java and DSA. I enjoy buil
 ## 🌟 Projects
 
 ### Project 1: [Awesome Project](https://guileless-chimera-b91085.netlify.app/)
-![Awesome Project](https://media.giphy.com/media/fdLR9oSZ8v6w54XQ3b/giphy.gif)
+![Awesome Project](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBwYXBna2R1MDdpb2dodWE5N3JtcnFocHBkZHFjY2N5aTh6d2FyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rMwj3tPh07YCUwG7KH/giphy.gif)
 - **Description**: A brief description of your project.
 - **Tech Stack**: React, Node.js, MongoDB, Express.js
 
