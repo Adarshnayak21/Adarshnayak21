@@ -36,13 +36,23 @@ I'm a passionate MERN developer currently diving into Java and DSA. I enjoy buil
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-nayak-a4062a279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instahram&logoColor=white)](https://www.instagram.com/yours__aadii?utm_source=qr&igsh=dXlmcDdnY29leGI3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yours__aadii?utm_source=qr&igsh=dXlmcDdnY29leGI3)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshnayak21)
 
-## ⚡ Fun Facts
+## ⚡ stay connected
 - 🌱 I’m currently learning Java and DSA.
 - 💬 Ask me about web development and the MERN stack.
-- ⚡ Fun fact: I love coding challenges and hackathons!
+- ⚡ The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie!
+
+
+## GitHub Stats 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Adarshnayak21&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshnayak21&theme=default)
+
+
+![Thank You](https://gifsec.com/wp-content/uploads/2022/09/thank-you-gif-1.gif)
 
 
 
